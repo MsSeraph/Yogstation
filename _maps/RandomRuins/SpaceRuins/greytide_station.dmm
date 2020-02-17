@@ -1,470 +1,765 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
-"d" = (
-/turf/open/floor/plating/airless,
-/area/space)
-"e" = (
-/obj/structure/lattice,
-/obj/structure/lattice,
-/turf/open/space/basic,
-/area/space)
-"h" = (
-/obj/machinery/iv_drip,
-/turf/open/floor/plasteel/airless,
-/area/space)
-"j" = (
-/obj/machinery/door/airlock/medical/glass,
-/turf/open/floor/plasteel/airless,
-/area/space)
-"k" = (
-/turf/closed/wall/r_wall,
-/area/space)
-"l" = (
-/obj/machinery/power/apc{
-	dir = 1;
-	pixel_y = 24
-	},
-/turf/open/floor/plating,
-/area/space)
-"m" = (
-/obj/machinery/door/airlock/maintenance,
-/turf/open/floor/plating/airless,
-/area/space)
-"n" = (
-/turf/open/floor/plating,
-/area/space)
-"o" = (
-/turf/open/space/basic,
-/area/space)
-"q" = (
-/obj/machinery/chem_heater,
-/turf/open/floor/plasteel/airless,
-/area/space)
-"r" = (
-/obj/machinery/chem_master,
-/turf/open/floor/plasteel/airless,
-/area/space)
-"s" = (
-/obj/structure/table,
-/obj/item/gun/ballistic/shotgun/doublebarrel/improvised,
-/turf/open/floor/plating,
-/area/space)
-"t" = (
-/obj/structure/table,
-/turf/open/floor/plating,
-/area/space)
-"v" = (
+"av" = (
 /obj/structure/lattice,
 /turf/open/space,
 /area/space)
-"w" = (
-/obj/machinery/chem_dispenser/drinks/beer{
+"fh" = (
+/obj/structure/table,
+/obj/item/storage/box/fancy/donut_box,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/powered/greytidestation/maint_fort)
+"fU" = (
+/obj/machinery/iv_drip,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/has_grav/greytidestation/medbay)
+"gF" = (
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/has_grav/greytidestation/maint)
+"gS" = (
+/turf/closed/wall/r_wall,
+/area/ruin/space/has_grav/greytidestation/hallway)
+"gX" = (
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/has_grav/greytidestation/maint)
+"hi" = (
+/obj/structure/lattice,
+/turf/open/space)
+"hQ" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/has_grav/greytidestation/hallway)
+"iK" = (
+/turf/open/floor/plating/airless,
+/area/ruin/space/has_grav/greytidestation/medbay)
+"jq" = (
+/obj/structure/table,
+/obj/item/clothing/gloves/color/yellow,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/powered/greytidestation/maint_fort)
+"jE" = (
+/obj/structure/rack,
+/obj/item/stack/sheet/mineral/uranium,
+/turf/open/floor/plating/airless,
+/area/ruin/space/has_grav/greytidestation/maint)
+"jX" = (
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/has_grav/greytidestation/chemistry)
+"kI" = (
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/powered/greytidestation/maint_fort)
+"lM" = (
+/obj/structure/chair/stool,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/powered/greytidestation/maint_fort)
+"md" = (
+/obj/item/stack/cable_coil/cut/red,
+/turf/open/floor/plating/airless,
+/area/ruin/space/has_grav/greytidestation/maint)
+"mn" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/has_grav/greytidestation/chemistry)
+"nt" = (
+/obj/machinery/chem_dispenser/drinks{
 	dir = 8
 	},
 /turf/open/floor/plating,
+/area/ruin/space/has_grav/powered/greytidestation/maint_fort)
+"nE" = (
+/obj/structure/lattice,
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/space,
 /area/space)
-"x" = (
+"oc" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/has_grav/greytidestation/hallway)
+"oh" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/has_grav/greytidestation/medbay)
+"pg" = (
+/obj/structure/table,
+/obj/item/storage/toolbox/mechanical,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/powered/greytidestation/maint_fort)
+"pM" = (
+/turf/closed/wall/r_wall,
+/area/ruin/space/has_grav/greytidestation/chemistry)
+"qb" = (
+/turf/template_noop,
+/area/template_noop)
+"qD" = (
+/turf/closed/wall/r_wall,
+/area/ruin/space/has_grav/greytidestation/maint)
+"rt" = (
 /obj/structure/bed,
 /obj/effect/decal/cleanable/food/flour,
 /obj/item/reagent_containers/food/snacks/egg,
 /turf/open/floor/plating,
-/area/space)
-"y" = (
-/obj/structure/table,
-/obj/item/paper,
+/area/ruin/space/has_grav/powered/greytidestation/maint_fort)
+"rG" = (
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/has_grav/greytidestation/medbay)
+"rH" = (
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/has_grav/greytidestation/medbay)
+"sC" = (
+/obj/machinery/door/airlock/maintenance,
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/has_grav/greytidestation/hallway)
+"ua" = (
+/obj/machinery/power/apc{
+	dir = 1;
+	name = "East Hallway";
+	pixel_y = 24
+	},
+/obj/structure/cable{
+	icon_state = "0-4"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/has_grav/greytidestation/hallway)
+"vm" = (
+/obj/machinery/chem_dispenser/drinks/beer{
+	dir = 8
+	},
 /turf/open/floor/plating,
-/area/space)
-"z" = (
-/obj/structure/table,
-/obj/item/storage/toolbox/mechanical,
+/area/ruin/space/has_grav/powered/greytidestation/maint_fort)
+"vN" = (
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
 /turf/open/floor/plating,
-/area/space)
-"A" = (
+/area/ruin/space/has_grav/powered/greytidestation/maint_fort)
+"vX" = (
+/obj/structure/table,
+/obj/item/gun/ballistic/shotgun/doublebarrel/improvised,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/powered/greytidestation/maint_fort)
+"wg" = (
+/turf/closed/wall,
+/area/ruin/space/has_grav/powered/greytidestation/maint_fort)
+"wS" = (
 /obj/structure/table,
 /obj/item/twohanded/spear,
 /turf/open/floor/plating,
-/area/space)
-"B" = (
-/obj/machinery/power/apc{
-	dir = 1;
-	name = "East Maintainance";
-	pixel_y = 24
-	},
-/turf/open/floor/plating/airless,
-/area/space)
-"C" = (
-/obj/structure/lattice,
-/turf/open/space/basic,
-/area/space)
-"D" = (
-/obj/machinery/power/apc{
-	dir = 1;
-	pixel_y = 24
+/area/ruin/space/has_grav/powered/greytidestation/maint_fort)
+"xs" = (
+/obj/structure/table,
+/obj/item/multitool,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/powered/greytidestation/maint_fort)
+"yp" = (
+/obj/structure/cable{
+	icon_state = "2-8"
 	},
 /turf/open/floor/plasteel/airless,
+/area/ruin/space/has_grav/greytidestation/hallway)
+"yC" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/has_grav/greytidestation/maint)
+"za" = (
+/obj/structure/lattice,
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/space)
+"zc" = (
+/obj/machinery/door/airlock/medical/glass,
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/has_grav/greytidestation/medbay)
+"zO" = (
+/obj/structure/cable,
+/turf/open/floor/plating/airless,
+/area/ruin/space/has_grav/greytidestation/maint)
+"Ar" = (
+/obj/item/stack/cable_coil/cut/red,
+/turf/open/floor/plating/airless,
+/area/ruin/space/has_grav/greytidestation/medbay)
+"Bj" = (
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/has_grav/greytidestation/maint)
+"BG" = (
+/obj/item/storage/box/beakers,
+/turf/template_noop,
+/area/template_noop)
+"BV" = (
+/obj/structure/lattice,
+/turf/template_noop,
 /area/space)
-"G" = (
+"Cw" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/has_grav/greytidestation/maint)
+"CK" = (
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/has_grav/greytidestation/medbay)
+"DC" = (
+/obj/structure/lattice,
+/obj/item/storage/box/beakers,
+/turf/open/space,
+/area/space)
+"Ee" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/cable,
+/turf/open/floor/plating/airless,
+/area/ruin/space/has_grav/greytidestation/maint)
+"Ew" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/has_grav/greytidestation/medbay)
+"EC" = (
+/turf/open/floor/plating/airless,
+/area/ruin/space/has_grav/greytidestation/maint)
+"EG" = (
+/obj/machinery/door/airlock/maintenance,
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/greytidestation/maint)
+"EH" = (
+/obj/structure/lattice,
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/turf/open/space,
+/area/space)
+"Fg" = (
+/obj/machinery/chem_dispenser,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/has_grav/greytidestation/chemistry)
+"Go" = (
 /obj/machinery/power/apc{
 	dir = 1;
 	name = "Medbay";
 	pixel_y = 24
 	},
-/turf/open/floor/plasteel/airless,
-/area/space)
-"H" = (
-/obj/structure/table,
-/obj/item/storage/belt/utility/full/engi,
-/turf/open/floor/plating,
-/area/space)
-"I" = (
-/obj/machinery/chem_dispenser/drinks{
-	dir = 8
-	},
-/turf/open/floor/plating,
-/area/space)
-"J" = (
-/obj/structure/rack,
-/obj/item/stack/sheet/mineral/uranium,
-/turf/open/floor/plating/airless,
-/area/space)
-"K" = (
-/obj/machinery/door/airlock/maintenance,
-/turf/open/floor/plating,
-/area/space)
-"M" = (
-/obj/structure/chair/stool,
-/turf/open/floor/plating,
-/area/space)
-"N" = (
-/obj/machinery/sleeper{
-	dir = 4
+/obj/structure/cable{
+	icon_state = "0-2"
 	},
 /turf/open/floor/plasteel/airless,
-/area/space)
-"O" = (
-/obj/machinery/chem_dispenser,
-/turf/open/floor/plasteel/airless,
-/area/space)
-"S" = (
-/turf/open/floor/plasteel/airless,
-/area/space)
-"T" = (
+/area/ruin/space/has_grav/greytidestation/medbay)
+"HL" = (
 /obj/structure/lattice,
-/turf/closed/wall,
+/obj/item/stack/cable_coil/cut/red,
+/turf/open/space,
 /area/space)
-"U" = (
-/obj/machinery/power/port_gen/pacman/super,
+"IC" = (
 /turf/open/floor/plating/airless,
-/area/space)
-"V" = (
-/obj/structure/table,
-/obj/item/clothing/gloves/color/yellow,
-/turf/open/floor/plating,
-/area/space)
-"W" = (
-/obj/structure/bed/roller,
+/area/ruin/space/has_grav/greytidestation/hallway)
+"Jc" = (
 /turf/open/floor/plasteel/airless,
+/area/ruin/space/has_grav/greytidestation/hallway)
+"JI" = (
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/has_grav/greytidestation/medbay)
+"JM" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/has_grav/greytidestation/medbay)
+"Kr" = (
+/obj/structure/lattice,
+/obj/structure/cable,
+/turf/open/space,
 /area/space)
-"X" = (
+"Ky" = (
+/obj/structure/lattice,
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/turf/open/space,
+/area/space)
+"KG" = (
+/obj/machinery/chem_heater,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/has_grav/greytidestation/chemistry)
+"Lp" = (
 /turf/closed/wall,
-/area/space)
-"Y" = (
-/obj/structure/table,
-/obj/item/storage/box/fancy/donut_box,
+/area/ruin/space/has_grav/greytidestation/hallway)
+"LG" = (
+/obj/machinery/power/apc{
+	dir = 1;
+	name = "Fort Assistant Gang";
+	pixel_y = 24
+	},
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
 /turf/open/floor/plating,
+/area/ruin/space/has_grav/powered/greytidestation/maint_fort)
+"MT" = (
+/turf/closed/wall,
+/area/ruin/space/has_grav/greytidestation/maint)
+"NK" = (
+/obj/machinery/power/apc{
+	dir = 1;
+	name = "East Maintainance";
+	pixel_y = 24
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/cable{
+	icon_state = "0-4"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/has_grav/greytidestation/maint)
+"Ok" = (
+/obj/structure/table,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/powered/greytidestation/maint_fort)
+"Oz" = (
+/obj/structure/lattice,
+/obj/structure/cable{
+	icon_state = "0-2"
+	},
+/turf/open/space,
 /area/space)
-"Z" = (
+"Ps" = (
 /obj/machinery/power/apc{
 	name = "Chemistry";
 	pixel_y = -24
 	},
+/obj/structure/cable{
+	icon_state = "0-4"
+	},
 /turf/open/floor/plasteel/airless,
+/area/ruin/space/has_grav/greytidestation/chemistry)
+"Pu" = (
+/obj/structure/chair/stool,
+/mob/living/simple_animal/hostile/syndicate/greytide,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/powered/greytidestation/maint_fort)
+"PQ" = (
+/obj/structure/table,
+/obj/item/storage/belt/utility/full/engi,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/powered/greytidestation/maint_fort)
+"Qk" = (
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/has_grav/greytidestation/chemistry)
+"QR" = (
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/turf/template_noop,
+/area/template_noop)
+"Rg" = (
+/obj/structure/table,
+/obj/item/paper,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/powered/greytidestation/maint_fort)
+"Sy" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/has_grav/greytidestation/medbay)
+"Tq" = (
+/obj/structure/bed/roller,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/has_grav/greytidestation/medbay)
+"TJ" = (
+/obj/structure/lattice,
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/turf/open/space,
 /area/space)
+"UL" = (
+/obj/structure/lattice,
+/obj/item/reagent_containers/glass/beaker/large,
+/turf/open/space,
+/area/space)
+"Vl" = (
+/obj/machinery/power/port_gen/pacman/super,
+/turf/open/floor/plating/airless,
+/area/ruin/space/has_grav/greytidestation/maint)
+"Vq" = (
+/obj/structure/lattice,
+/obj/structure/lattice,
+/turf/open/space,
+/area/space)
+"VM" = (
+/obj/machinery/chem_master,
+/obj/item/reagent_containers/glass/beaker/large,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/has_grav/greytidestation/chemistry)
+"XG" = (
+/obj/structure/lattice,
+/turf/closed/wall,
+/area/ruin/space/has_grav/greytidestation/maint)
+"ZL" = (
+/turf/open/floor/plating/airless,
+/area/ruin/space/has_grav/greytidestation/chemistry)
+"ZN" = (
+/obj/machinery/sleeper{
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/has_grav/greytidestation/medbay)
+"ZV" = (
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/has_grav/greytidestation/medbay)
 
 (1,1,1) = {"
-o
-C
-C
-C
-C
-C
-o
-d
-C
-o
-C
-d
-C
-C
-d
-o
+qb
+Oz
+HL
+nE
+HL
+nE
+QR
+EC
+av
+qb
+av
+EC
+hi
+hi
+EC
+qb
 "}
 (2,1,1) = {"
-C
-C
-d
-d
-d
-d
-v
-d
-d
-d
-d
-d
-d
-d
-C
-d
+av
+av
+IC
+IC
+IC
+IC
+TJ
+yC
+yC
+yC
+yC
+yC
+md
+Ee
+za
+zO
 "}
 (3,1,1) = {"
-o
-X
-S
-S
-S
-X
-d
-X
-X
-X
-X
-X
-X
-X
-d
-d
+qb
+Lp
+Jc
+Jc
+Jc
+MT
+Cw
+wg
+wg
+wg
+wg
+wg
+wg
+wg
+EC
+EC
 "}
 (4,1,1) = {"
-o
-X
-D
-S
-S
-T
-B
-X
-M
-t
-t
-M
-H
-X
-U
-d
+qb
+Lp
+ua
+Jc
+Jc
+XG
+NK
+wg
+Pu
+Ok
+xs
+Pu
+PQ
+wg
+Vl
+EC
 "}
 (5,1,1) = {"
-o
-X
-S
-S
-S
-X
-d
-X
-M
-y
-Y
-M
-z
-X
-J
-C
+qb
+Lp
+hQ
+Jc
+Jc
+MT
+Cw
+wg
+Pu
+Rg
+fh
+lM
+pg
+wg
+jE
+av
 "}
 (6,1,1) = {"
-o
-X
-S
-S
-S
-m
-d
-K
-n
-M
-M
-n
-A
-X
-d
-C
+qb
+Lp
+yp
+oc
+oc
+sC
+gF
+EG
+vN
+Pu
+lM
+kI
+wS
+wg
+EC
+av
 "}
 (7,1,1) = {"
-o
-X
-S
-S
-S
-X
-d
-X
-l
-n
-n
-n
-s
-X
-d
-d
+qb
+Lp
+Jc
+Jc
+Jc
+MT
+Cw
+wg
+LG
+kI
+kI
+kI
+vX
+wg
+EC
+EC
 "}
 (8,1,1) = {"
-o
-C
-d
-k
-k
-k
-d
-X
-x
-n
-I
-w
-V
-X
-d
-C
+qb
+av
+IC
+gS
+gS
+qD
+Cw
+wg
+rt
+kI
+nt
+vm
+jq
+wg
+EC
+av
 "}
 (9,1,1) = {"
-o
-o
-C
-d
-r
-k
-d
-X
-X
-X
-X
-X
-X
-X
-d
-C
+qb
+qb
+DC
+ZL
+VM
+qD
+md
+wg
+wg
+wg
+wg
+wg
+wg
+wg
+EC
+av
 "}
 (10,1,1) = {"
-o
-C
-d
-S
-q
-k
-d
-d
-d
-d
-d
-d
-d
-d
-d
-C
+qb
+av
+ZL
+jX
+KG
+qD
+gX
+yC
+yC
+yC
+yC
+yC
+Bj
+EC
+EC
+av
 "}
 (11,1,1) = {"
-o
-C
-d
-S
-O
-k
-k
-k
-k
-k
-k
-d
-d
-C
-C
-C
+qb
+UL
+ZL
+jX
+Fg
+pM
+qD
+qD
+qD
+qD
+qD
+EC
+Cw
+av
+av
+av
 "}
 (12,1,1) = {"
-o
-o
-C
-S
-Z
-k
-W
-N
-N
-W
-h
-v
-d
-C
-C
-o
+qb
+qb
+av
+jX
+Ps
+pM
+Tq
+ZN
+ZN
+Tq
+fU
+BV
+Sy
+av
+av
+qb
 "}
 (13,1,1) = {"
-o
-o
-C
-v
-S
-k
-G
-S
-S
-S
-S
-S
-d
-v
-o
-o
+qb
+qb
+av
+av
+mn
+pM
+Go
+ZV
+oh
+oh
+JM
+oh
+rH
+HL
+qb
+qb
 "}
 (14,1,1) = {"
-o
-o
-o
-C
-d
-j
-d
-d
-v
-S
-S
-d
-d
-C
-C
-o
+BG
+qb
+qb
+UL
+Qk
+zc
+Ew
+JI
+av
+rG
+CK
+iK
+iK
+Ky
+Kr
+qb
 "}
 (15,1,1) = {"
-o
-o
-o
-o
-C
-C
-C
-C
-d
-d
-d
-d
-C
-C
-o
-o
+qb
+qb
+qb
+qb
+av
+av
+av
+av
+iK
+Ar
+iK
+iK
+av
+av
+qb
+qb
 "}
 (16,1,1) = {"
-o
-o
-o
-o
-C
-o
-o
-o
-C
-C
-e
-e
-o
-C
-C
-o
+qb
+qb
+qb
+qb
+av
+qb
+qb
+qb
+av
+EH
+Vq
+Vq
+qb
+av
+av
+qb
 "}
