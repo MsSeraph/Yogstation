@@ -427,3 +427,25 @@
 /area/ruin/space/has_grav/powered/ancient_shuttle
 	name = "Ancient Shuttle"
 	icon_state = "yellow"
+
+//GREYTIDE STATION
+
+/area/ruin/space/has_grav/powered/greytidestation/maint_fort
+	name = "Fort Assistant Gang"
+	icon_state = "yellow"
+
+/area/ruin/space/has_grav/greytidestation/chemistry
+	name = "Old Chemistry"
+	icon_state = "green"
+
+/area/ruin/space/has_grav/greytidestation/medbay
+	name = "Old Medbay"
+	icon_state = "red"
+
+/area/ruin/space/has_grav/greytidestation/maint
+	name = "Old Maint"
+	icon_state = "engine"
+
+/area/ruin/space/has_grav/greytidestation/hallway
+	name = "Old Hallway"
+	icon_state = "yellow"

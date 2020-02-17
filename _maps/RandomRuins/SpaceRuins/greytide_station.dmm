@@ -1,0 +1,470 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"d" = (
+/turf/open/floor/plating/airless,
+/area/space)
+"e" = (
+/obj/structure/lattice,
+/obj/structure/lattice,
+/turf/open/space/basic,
+/area/space)
+"h" = (
+/obj/machinery/iv_drip,
+/turf/open/floor/plasteel/airless,
+/area/space)
+"j" = (
+/obj/machinery/door/airlock/medical/glass,
+/turf/open/floor/plasteel/airless,
+/area/space)
+"k" = (
+/turf/closed/wall/r_wall,
+/area/space)
+"l" = (
+/obj/machinery/power/apc{
+	dir = 1;
+	pixel_y = 24
+	},
+/turf/open/floor/plating,
+/area/space)
+"m" = (
+/obj/machinery/door/airlock/maintenance,
+/turf/open/floor/plating/airless,
+/area/space)
+"n" = (
+/turf/open/floor/plating,
+/area/space)
+"o" = (
+/turf/open/space/basic,
+/area/space)
+"q" = (
+/obj/machinery/chem_heater,
+/turf/open/floor/plasteel/airless,
+/area/space)
+"r" = (
+/obj/machinery/chem_master,
+/turf/open/floor/plasteel/airless,
+/area/space)
+"s" = (
+/obj/structure/table,
+/obj/item/gun/ballistic/shotgun/doublebarrel/improvised,
+/turf/open/floor/plating,
+/area/space)
+"t" = (
+/obj/structure/table,
+/turf/open/floor/plating,
+/area/space)
+"v" = (
+/obj/structure/lattice,
+/turf/open/space,
+/area/space)
+"w" = (
+/obj/machinery/chem_dispenser/drinks/beer{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/space)
+"x" = (
+/obj/structure/bed,
+/obj/effect/decal/cleanable/food/flour,
+/obj/item/reagent_containers/food/snacks/egg,
+/turf/open/floor/plating,
+/area/space)
+"y" = (
+/obj/structure/table,
+/obj/item/paper,
+/turf/open/floor/plating,
+/area/space)
+"z" = (
+/obj/structure/table,
+/obj/item/storage/toolbox/mechanical,
+/turf/open/floor/plating,
+/area/space)
+"A" = (
+/obj/structure/table,
+/obj/item/twohanded/spear,
+/turf/open/floor/plating,
+/area/space)
+"B" = (
+/obj/machinery/power/apc{
+	dir = 1;
+	name = "East Maintainance";
+	pixel_y = 24
+	},
+/turf/open/floor/plating/airless,
+/area/space)
+"C" = (
+/obj/structure/lattice,
+/turf/open/space/basic,
+/area/space)
+"D" = (
+/obj/machinery/power/apc{
+	dir = 1;
+	pixel_y = 24
+	},
+/turf/open/floor/plasteel/airless,
+/area/space)
+"G" = (
+/obj/machinery/power/apc{
+	dir = 1;
+	name = "Medbay";
+	pixel_y = 24
+	},
+/turf/open/floor/plasteel/airless,
+/area/space)
+"H" = (
+/obj/structure/table,
+/obj/item/storage/belt/utility/full/engi,
+/turf/open/floor/plating,
+/area/space)
+"I" = (
+/obj/machinery/chem_dispenser/drinks{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/space)
+"J" = (
+/obj/structure/rack,
+/obj/item/stack/sheet/mineral/uranium,
+/turf/open/floor/plating/airless,
+/area/space)
+"K" = (
+/obj/machinery/door/airlock/maintenance,
+/turf/open/floor/plating,
+/area/space)
+"M" = (
+/obj/structure/chair/stool,
+/turf/open/floor/plating,
+/area/space)
+"N" = (
+/obj/machinery/sleeper{
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless,
+/area/space)
+"O" = (
+/obj/machinery/chem_dispenser,
+/turf/open/floor/plasteel/airless,
+/area/space)
+"S" = (
+/turf/open/floor/plasteel/airless,
+/area/space)
+"T" = (
+/obj/structure/lattice,
+/turf/closed/wall,
+/area/space)
+"U" = (
+/obj/machinery/power/port_gen/pacman/super,
+/turf/open/floor/plating/airless,
+/area/space)
+"V" = (
+/obj/structure/table,
+/obj/item/clothing/gloves/color/yellow,
+/turf/open/floor/plating,
+/area/space)
+"W" = (
+/obj/structure/bed/roller,
+/turf/open/floor/plasteel/airless,
+/area/space)
+"X" = (
+/turf/closed/wall,
+/area/space)
+"Y" = (
+/obj/structure/table,
+/obj/item/storage/box/fancy/donut_box,
+/turf/open/floor/plating,
+/area/space)
+"Z" = (
+/obj/machinery/power/apc{
+	name = "Chemistry";
+	pixel_y = -24
+	},
+/turf/open/floor/plasteel/airless,
+/area/space)
+
+(1,1,1) = {"
+o
+C
+C
+C
+C
+C
+o
+d
+C
+o
+C
+d
+C
+C
+d
+o
+"}
+(2,1,1) = {"
+C
+C
+d
+d
+d
+d
+v
+d
+d
+d
+d
+d
+d
+d
+C
+d
+"}
+(3,1,1) = {"
+o
+X
+S
+S
+S
+X
+d
+X
+X
+X
+X
+X
+X
+X
+d
+d
+"}
+(4,1,1) = {"
+o
+X
+D
+S
+S
+T
+B
+X
+M
+t
+t
+M
+H
+X
+U
+d
+"}
+(5,1,1) = {"
+o
+X
+S
+S
+S
+X
+d
+X
+M
+y
+Y
+M
+z
+X
+J
+C
+"}
+(6,1,1) = {"
+o
+X
+S
+S
+S
+m
+d
+K
+n
+M
+M
+n
+A
+X
+d
+C
+"}
+(7,1,1) = {"
+o
+X
+S
+S
+S
+X
+d
+X
+l
+n
+n
+n
+s
+X
+d
+d
+"}
+(8,1,1) = {"
+o
+C
+d
+k
+k
+k
+d
+X
+x
+n
+I
+w
+V
+X
+d
+C
+"}
+(9,1,1) = {"
+o
+o
+C
+d
+r
+k
+d
+X
+X
+X
+X
+X
+X
+X
+d
+C
+"}
+(10,1,1) = {"
+o
+C
+d
+S
+q
+k
+d
+d
+d
+d
+d
+d
+d
+d
+d
+C
+"}
+(11,1,1) = {"
+o
+C
+d
+S
+O
+k
+k
+k
+k
+k
+k
+d
+d
+C
+C
+C
+"}
+(12,1,1) = {"
+o
+o
+C
+S
+Z
+k
+W
+N
+N
+W
+h
+v
+d
+C
+C
+o
+"}
+(13,1,1) = {"
+o
+o
+C
+v
+S
+k
+G
+S
+S
+S
+S
+S
+d
+v
+o
+o
+"}
+(14,1,1) = {"
+o
+o
+o
+C
+d
+j
+d
+d
+v
+S
+S
+d
+d
+C
+C
+o
+"}
+(15,1,1) = {"
+o
+o
+o
+o
+C
+C
+C
+C
+d
+d
+d
+d
+C
+C
+o
+o
+"}
+(16,1,1) = {"
+o
+o
+o
+o
+C
+o
+o
+o
+C
+C
+e
+e
+o
+C
+C
+o
+"}

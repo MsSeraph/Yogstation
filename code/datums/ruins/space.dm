@@ -325,3 +325,11 @@
 	suffix = "drifting_spacepod.dmm"
 	name = "Drifting Spacepod"
 	description = "An abandoned spacepod, just drifting through space."
+
+/datum/map_template/ruin/space/greytide_station
+	id = "greytide_station"
+	suffix = "greytide_station.dmm"
+	name = "Greytide Station"
+	description = "Part of a blown up station. there seems to be some survivors \
+	that took shelter in maintainance. however they must have gone crazy from \
+	the time they've been isolated."
