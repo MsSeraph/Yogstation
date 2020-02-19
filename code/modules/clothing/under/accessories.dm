@@ -94,6 +94,17 @@
 	minimize_when_attached = FALSE
 	attachment_slot = null
 
+/obj/item/clothing/accessory/exoskeleton
+	name = "exoskeleton"
+	desc = "A military exoskeleton which helps you move around in heavy armor."
+	icon_state = "exoskeleton"
+	item_state = "exoskeleton"
+	item_color = "exoskeleton"
+	minimize_when_attached = FALSE
+	attachment_slot = null
+	slowdown = -1
+	above_suit = TRUE
+
 /obj/item/clothing/accessory/maidapron
 	name = "maid apron"
 	desc = "The best part of a maid costume."
