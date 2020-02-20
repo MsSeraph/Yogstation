@@ -102,7 +102,7 @@
 	item_color = "exoskeleton"
 	minimize_when_attached = FALSE
 	attachment_slot = null
-	slowdown = -1
+	var/slowdown = -1
 	above_suit = TRUE
 
 /obj/item/clothing/accessory/maidapron
