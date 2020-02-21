@@ -102,8 +102,16 @@
 	item_color = "exoskeleton"
 	minimize_when_attached = FALSE
 	attachment_slot = null
-	var/slowdown = -1
+	slowdown = -1
 	above_suit = TRUE
+
+/obj/item/clothing/accessory/lawyers_badge/on_uniform_equip(obj/item/clothing/under/U, user)
+	U.slowdown = -1
+	return
+
+/obj/item/clothing/accessory/lawyers_badge/on_uniform_dropped(obj/item/clothing/under/U, user)
+	U.slowdown = 0
+	return
 
 /obj/item/clothing/accessory/maidapron
 	name = "maid apron"
